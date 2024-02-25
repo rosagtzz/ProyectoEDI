@@ -12,7 +12,9 @@ import java.util.ArrayList;
  * </pre>>
  * @author María Regina Ramos Nava
  * @author Emiliano Cervantes Diaz Barriga
- * 
+ * @author Rosa Itzel Gutiérrez Barrera
+ * @author Ailyn Ximena Ocampo Vera
+ * @author Fernando López Garza
  * 
  */
 public class Calculadora {

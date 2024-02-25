@@ -11,6 +11,9 @@ package calculadora;
  * </pre>
   * @author María Regina Ramos Nava
   * @author Emiliano Cervantes Diaz Barriga
+  * @author Rosa Itzel Gutiérrez Barrera
+  * @author Aylin Ximena Ocampo Vera
+  * @author Fernando López Garza
  */
 public class PilaA <T> implements PilaADT <T> {
     private T[] pila;

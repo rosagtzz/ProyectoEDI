@@ -9,8 +9,11 @@ package calculadora;
  * Clase PilaADT
  * Define los métodos abstractos necesarios para una pila
  * </pre>
- @author María Regina Ramos Nava
+ * @author María Regina Ramos Nava
  * @author Emiliano Cervantes Diaz Barriga
+ * @author Rosa Itzel Gutiérrez Barrera
+ * @author Aylin Ximena Ocampo Vera
+ * @author Fernando López Garza
  */
 
 /**

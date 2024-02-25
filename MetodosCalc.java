@@ -15,6 +15,9 @@ import java.util.Stack;
  * </pre>
  * @author María Regina Ramos Nava
  * @author Emiliano Cervantes Diaz Barriga
+ * @author Rosa Itzel Gutiérrez Barrera
+ * @author Aylin Ximena Ocampo Vera
+ * @author Ferando López Garza
  * @version 1.4
  * 
  */
